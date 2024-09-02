@@ -3,7 +3,7 @@
 
 ## Overview
 
-**MindMate** is a mental health companion app designed to provide users with emotional support, practical advice, and personalized prescriptions based on their reported symptoms, mood, behaviors, and preferences. The app utilizes advanced AI capabilities from Groq's API for generating thoughtful responses and uses Google Text-to-Speech (gTTS) to enhance user interaction with audio feedback.
+**MindMate** is a mental health companion app designed to provide users with emotional support, practical advice, and personalized prescriptions based on their reported symptoms, mood, behaviors, and preferences. The app utilizes advanced AI capabilities from Groq's API for generating thoughtful responses and uses Google Text-to-Speech (gTTS) to enhance user interaction with audio feedback. ([**my website**](https://mindmate-ai.streamlit.app/))
 
 ## Features
 
